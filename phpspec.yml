@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: EnterKit
+        psr4_prefix: EnterKit
+        src_path: app

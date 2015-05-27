@@ -1,0 +1,217 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-width: 1200px;
+    min-height: 100px;
+    background-color: #E6E6E6;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    color: #333333;
+}
+main-container{
+    margin: 0;
+    padding: 0;
+}
+#header-container{
+    margin: 0;
+    padding: 0;
+    height: 45px;
+    width: 100%;
+    background-color: #FFFFFF;
+    color: #306EF2;
+    border-bottom: 1px solid #CCCCCC;
+}
+#header{
+    margin: auto;
+    padding: 0;
+    height: 45px;
+    width: 1200px;
+}
+#logo-container{
+    margin: auto;
+    padding: 5px 0 5px 0;
+    height: 35px;
+    float: left;
+}
+#logo{
+    margin: 0;
+    padding: 0;
+    height: 35px;
+}
+#user-container{
+    margin: 0;
+    padding: 12px 10px 8px 10px;
+    height: 25px;
+    float: right;
+}
+#top-menu-container{
+    margin: 0;
+    padding: 0;
+    height: 45px;
+    width: 100%;
+    background-color: #306EF2;
+-webkit-box-shadow: 0px 2.5px 5px 0px #CCCCCC;
+-moz-box-shadow: 0px 2.5px 5px 0px #CCCCCC;
+box-shadow: 0px 2.5px 5px 0px #CCCCCC;
+}
+#top-menu{
+    margin: auto;
+    padding: 0;
+    height: 45px;
+    width: 1200px;
+}
+.module{
+    margin: 0;
+    padding: 12px 10px 8px 10px;
+    height: 25px;
+    width: 180px;
+    float: left;
+    text-align: center;
+    color: #FFFFFF;
+}
+#selected-module{
+    background-color: #2B62D9;
+    color: #FFFFFF;
+}
+.module:hover{
+    background-color: #2B62D9;1
+    color: #FFFFFF;
+}
+#worksheet-container{
+    margin: 10px auto 0 auto;
+    padding: 0;
+    width: 1200px;
+}
+#leftmenu{
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    float: left;
+    border: 1px solid #CCCCCC;
+    background-color: #CCCCCC;
+}
+.option{
+    margin: 0;
+    padding: 12px 10px 8px 10px;
+    height: 25px;
+    width: 280px;
+    background-color: #FFFFFF;
+    color: #333333;
+}
+#selected-option{
+    background-color: #E6E6E6 !important;
+    color: #333333;
+}
+.option:hover{
+    background-color: #E6E6E6;
+    color: #333333;
+}
+#worksheet{
+    margin: 0 0 10px 0;
+    padding: 0;
+    min-height: 100px;
+    width: 885px;
+    float: right;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+}
+.input-container{
+    margin: 0;
+    padding: 0;
+    height: 45px;
+}
+.title{
+    margin: 0;
+    padding: 12px 10px 8px 10px;
+    height: 25px;
+    width: 860px;
+    float: left;
+    font-weight: bold;
+}
+.tag{
+    margin: 0;
+    padding: 12px 10px 8px 10px;
+    height: 25px;
+    width: 200px;
+    float: left;
+}
+.input{
+    margin: 0;
+    padding: 0;
+    height: 45px;
+    width: 220px;
+    float: left;
+}
+.field{
+    height: 25px;
+    width: 200px;
+    margin: 8px 0 12px 10px;
+    float: left;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    background-color: #FFFFFF;
+    color: #333333;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+}
+.comment-tag{
+    margin: 0;
+    padding: 12px 10px 8px 10px;
+    height: 25px;
+    width: 200px;
+    float: left;
+    font-weight: bold;
+}
+.comment-input{
+    margin: 0;
+    padding: 0;
+    height: 45px;
+    width: 660px;
+    float: left;
+}
+.comment-field{
+    height: 25px;
+    width: 640px;
+    margin: 8px 0 12px 10px;
+    float: left;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    background-color: #FFFFFF;
+    color: #333333;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+}
+.button{
+    margin: 10px 10px;
+    padding: 0;
+    height: 25px;
+    width: 200px;
+    float: left;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    border: none;
+    background-color: #E6E6E6;
+    color: #306EF2;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+}
+.button:hover{
+    background-color: #CCCCCC;
+}
+.break{
+    margin: 0;
+    padding: 0;
+    height: 0;
+    width: 885px;
+    float: left;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
